@@ -19,5 +19,6 @@ Currently based in Germany 🇩🇪
 - 🔗 Smart contracts with Solidity
 
 ## 📫 Contact
-- 💼 Open for freelance: [LaborX](https://laborx.com)
+- 💼 Open for freelance: necdeterdogans@hotmail.com
+[LaborX]([https://laborx.com](https://laborx.com/customers/users/id448138?ref=448138))
 - 💬 Crypto payments accepted via MetaMask
