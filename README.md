@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Necdet 👋
 
-<!--
-**necdeterdogans/necdeterdogans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Developer with a background in Computer Science Education.
+I build Web3 tools, automation scripts, and data-driven applications.
+Currently based in Germany 🇩🇪
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Building
+- 🤖 Crypto Arbitrage Bot (Python + CCXT)
+- 📊 Web3 DeFi tools
+- 🔗 Smart contracts with Solidity
+
+## 📫 Contact
+- 💼 Open for freelance: [LaborX](https://laborx.com)
+- 💬 Crypto payments accepted via MetaMask
